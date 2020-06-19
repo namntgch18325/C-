@@ -1,0 +1,5 @@
+﻿  Habit.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\admin\source\repos\ManageHabtits\ManageHabtits\Main.cpp(8,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  ManageHabtits.vcxproj -> C:\Users\admin\source\repos\ManageHabtits\Debug\ManageHabtits.exe
